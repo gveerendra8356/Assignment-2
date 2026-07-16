@@ -1,1 +1,2 @@
-This project demonstrates Git branching and conflict resolution.
+this is the project that demonstrated git branching and conflict resolution.
+
